@@ -1,6 +1,6 @@
 title:            "Writing Portfolio"
 description:      "This is a portfolio that I am starting as part of my introductory college English course."
-url:              vinsinga.github.io
+url:              
 signoff:          "Vincent Insinga" # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
