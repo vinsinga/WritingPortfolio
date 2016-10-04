@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Telling Secondhand Stories"
-date: "2016-10-02 21:09:01 -0400"
+title: Telling Secondhand Stories
+date: '2016-10-04 11:54'
 ---
 
 My friend and karate mentor was visiting in May. I took the short, sixty year old Brazilian man, who always wears a mischievous smile to complement his glasses, to the aquarium. He is a man who is completely obsessed with karate. He rarely chooses an appropriate time to indulge. In the parking lot, while all of the parents from the dojo were getting their children out of their cars, he was throwing punches and kicks into the air.
@@ -12,4 +12,4 @@ Obviously, **I** didn't say anything. Relative to all the people who have lived,
 
 I have never watched my black, adopted father be arrested in southern California by an officer who thought that my sister and I had been abducted. I have never waited in the police station for my mother to bring my birth certificate and free my dad. I am not my acquaintance.
 
-If I was the boy whose car caught fire outside the home of a girl from my Mormon church, who I intended to ask to prom, who exactly would I be? 
+If I was the boy whose car caught fire outside the home of a girl from my Mormon church, who I intended to ask to prom, who exactly would I be?
