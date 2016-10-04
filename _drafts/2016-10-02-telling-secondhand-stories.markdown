@@ -11,3 +11,5 @@ As our group walked through the aquarium, I had to stop him from this on more th
 Obviously, **I** didn't say anything. Relative to all the people who have lived, who have said things, I say very little. Usually it is not **I** who says something, but **he** who says something. Or, in this story, it was **she**. *She* said the only thing that she could think to say: "I'm so sorry; he doesn't speak English!" I was not there when this happened. My friend told me this story.
 
 I have never watched my black, adopted father be arrested in southern California by an officer who thought that my sister and I had been abducted. I have never waited in the police station for my mother to bring my birth certificate and free my dad. I am not my acquaintance.
+
+If I was the boy whose car caught fire outside the home of a girl from my Mormon church, who I intended to ask to prom, who exactly would I be? 
