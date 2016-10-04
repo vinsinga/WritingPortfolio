@@ -12,4 +12,4 @@ Obviously, **I** didn't say anything. Relative to all the people who have lived,
 
 I have never watched my black, adopted father be arrested in southern California by an officer who thought that my sister and I had been abducted. I have never waited in the police station for my mother to bring my birth certificate and free my dad. I am not my acquaintance.
 
-If I was the boy whose car caught fire outside the home of a girl from my Mormon church, who I intended to ask to prom, who exactly would I be?
+If I was the boy whose car caught fire outside the home of a girl from my church, who I intended to ask to prom, who exactly would I be? I would have had the distinct pleasure of meeting myself. I never would have had the chance to live my life and I never would have gotten to hear that story. My friend never did make it to prom that year, not for his fuel injector exploding. I have also never walked off a fast food job because management had told me that my training day was during my prom and then told me that I missed the actual date a week after it passed like him.
