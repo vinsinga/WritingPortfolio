@@ -7,10 +7,10 @@ html, body {
 body {
   background: #f9f9f9;
   color: #303030;
-  font-family: "Courier New", Courier, doublespace;
+  font-family: "Courier New", Courier, monospace;
   font-weight: 400;
   font-size: 13px;
-  line-height: 19px;
+  line-height: 2;
   padding: 0;
   margin: 0; }
   body, body * {
