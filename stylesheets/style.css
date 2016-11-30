@@ -98,8 +98,8 @@ footer {
   background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
-  border: 1px solid #eeeeee;
-  border-color: #eeeeee;
+  border: 1px solid darkgray;
+  border-color: darkgray;
   position: relative; }
   #container:before, #container:after {
     content: " ";
@@ -107,8 +107,8 @@ footer {
   #container:after {
     clear: both; }
   #container .block {
-    border-top: .5px solid #eeeeee;
-    border-bottom: .5px solid #eeeeee;
+    border-top: .5px solid darkgray;
+    border-bottom: .5px solid darkgray;
     padding: 30px 40px 24px;
     text-align: center; }
     #container .block:first-child, #container .block + .block {
