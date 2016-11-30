@@ -106,8 +106,8 @@ footer {
   #container:after {
     clear: both; }
   #container .block {
-    border-top: 1px solid #efefef;
-    border-bottom: 1px solid #efefef;
+    border-top: 2px solid #000000;
+    border-bottom: 2px solid #000000;
     padding: 30px 40px 24px;
     text-align: center; }
     #container .block:first-child, #container .block + .block {
@@ -140,7 +140,7 @@ footer {
   box-sizing: border-box;
   position: relative;
   width: 100%;
-  border-width: 0;
+  border-width: 2;
   border-style: solid;
   padding: 30px 60px;
   margin: auto; }
