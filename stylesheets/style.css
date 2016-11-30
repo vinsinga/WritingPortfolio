@@ -141,7 +141,7 @@ footer {
   box-sizing: border-box;
   position: relative;
   width: 100%;
-  border-width: 2;
+  border-width: 0;
   border-style: solid;
   padding: 30px 60px;
   margin: auto; }
