@@ -99,7 +99,8 @@ footer {
   margin: 40px auto 20px;
   border-radius: 7px;
   border: .5px solid #eeeeee;
-  position: relative; }
+  position: relative;
+  float: right; }
   #container:before, #container:after {
     content: " ";
     display: table; }
