@@ -98,7 +98,7 @@ footer {
   background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
-  border: 1px solid #eeeeee;
+  border-bottom: 1px solid #efefef;
   position: relative; }
   #container:before, #container:after {
     content: " ";
