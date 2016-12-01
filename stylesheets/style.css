@@ -5,12 +5,12 @@ html, body {
   height: 100%; }
 
 body {
-  background: #ffffff;
+  background: #fffffa;
   color: #000000;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Ubuntu, sans-serif;
   font-weight: 400;
-  font-size: 13px;
-  line-height: 3;
+  font-size: 17px;
+  line-height: 2;
   padding: 0;
   margin: 0; }
   body, body * {
@@ -98,19 +98,19 @@ footer {
   background: #fff;
   margin: 40px auto 20px;
   border-radius: 7px;
-  border: 1px solid darkgray;
   border-color: darkgray;
-  position: relative; }
+  position: relative;
+  box-shadow: 7px 10px 25px 2px #999999;
+  }
   #container:before, #container:after {
     content: " ";
     display: table; }
   #container:after {
     clear: both; }
   #container .block {
-    border-top: .5px solid darkgray;
-    border-bottom: .5px solid darkgray;
     padding: 30px 40px 24px;
-    text-align: center; }
+    text-align: center;
+    box-shadow: 3px 5px 10px -3px #999999;}
     #container .block:first-child, #container .block + .block {
       border-top: 0; }
     #container .block:last-child {
