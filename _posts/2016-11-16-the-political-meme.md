@@ -10,7 +10,7 @@ On The Politicization of Culture
 
   A meme is an idea or thing that is spread through a cultural context. The meme is the symbolic, social counterpart to the gene. The internet meme is an odd specification of this concept to a specific context and setting. On the internet, memes are able to spread much more quickly than in any non-digital culture. Internet memes also aspire to a much greater and more cohesive scale, a single image or phrase having the potential to spread from person to person, from website to website, from medium to medium across an arbitrarily large area in an arbitrarily short time, spurred by some simple spectacle.
 
-[Trump's Pepe]{https://pbs.twimg.com/media/CRLvYeaUYAEtT9T.png}
+[Trump's Pepe](https://pbs.twimg.com/media/CRLvYeaUYAEtT9T.png)
 
 By nature, internet memes are frequently co-opted, appropriated, recreated, politicised, commodified, and changed. The then Republican candidate for president, Donald Trump, Tweeted out a picture of Pepe the frog along with the caption "You Can't Stump the Trump" and a link to a Youtube video of the same name, that phrase being a meme unto itself. In the picture, Pepe, who began his meme life as a character that would react to things by saying “feels good man,” is wearing the candidate's hair. The frog stands, with a raised brow and hand on his chin, between a podium bearing the seal of the president of the United States of America and an American flag. Trump sent this tweet in October of 2015, long before the Pepe made his way on to the Anti-Defamation League's list of hate symbols nearly a year later.
 
