@@ -8,7 +8,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         Reflections
-    url:          /reflecions
+    url:          /reflections
     external:     true
   - name:         Elaborations
     url:          /elaboraions
