@@ -34,12 +34,11 @@ The Frog
 "Can't Stump the Trump." Know Your Meme. Cheez Burger, 21 June 2016. Web. 02 Dec. 2016. \<http://knowyourmeme.com/memes/can-t-stump-the-trump\>. 
 
 
+Miranda, Coaroline. "From Clinton's Shimmy to Pepe the Frog: Memes and the LOLcat Effect on the 2016 Election." Los Angeles Times. Los Angeles Times, 20 Oct. 2016. Web. 02 Dec. 2016. <http://www.latimes.com/entertainment/arts/miranda/la-ca-cam-memes-political-art-election-20161005-snap-htmlstory.html>. 
+
+
 "Pepe the Frog." Know Your Meme. Cheez Burger, 18 Oct. 2016. Web. 02 Dec. 2016. \<http://knowyourmeme.com/memes/pepe-the-frog\>. 
 
 
-Trump, Donald. ""@codyave: @drudgereport @BreitbartNews @Writeintrump "You Can't Stump the Trump" Https://t.co/0xITB7XeJV Pic.twitter.com/iF6S05se2w"" Twitter. Twitter, 13 Oct. 2015. Web. 02 Dec. 2016. 
+Trump, Donald. ""@codyave: @drudgereport @BreitbartNews @Writeintrump "You Can't Stump the Trump" Https://t.co/0xITB7XeJV Pic.twitter.com/iF6S05se2w"" Twitter. Twitter, 13 Oct. 2015. Web. 02 Dec. 2016. \<https://twitter.com/realDonaldTrump/status/653856168402681856\>.
 
-
-
-  
-  
