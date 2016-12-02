@@ -28,13 +28,13 @@ The Frog
 <center>Works Cited</center>
 
 
-"ADL Adds “Pepe the Frog” Meme, Used by Anti-Semites and Racists, to Online Hate Symbols Database." ADL. Anti-Defamation League, 27 Sept. 2016. Web. 02 Dec. 2016. <http://www.adl.org/press-center/press-releases/extremism/adl-adds-pepe-the-frog-online-hate-symbols-database.html>.
+"ADL Adds “Pepe the Frog” Meme, Used by Anti-Semites and Racists, to Online Hate Symbols Database." ADL. Anti-Defamation League, 27 Sept. 2016. Web. 02 Dec. 2016. \<http://www.adl.org/press-center/press-releases/extremism/adl-adds-pepe-the-frog-online-hate-symbols-database.html\>.
 
 
-"Can't Stump the Trump." Know Your Meme. Cheez Burger, 21 June 2016. Web. 02 Dec. 2016. <http://knowyourmeme.com/memes/can-t-stump-the-trump>. 
+"Can't Stump the Trump." Know Your Meme. Cheez Burger, 21 June 2016. Web. 02 Dec. 2016. \<http://knowyourmeme.com/memes/can-t-stump-the-trump\>. 
 
 
-"Pepe the Frog." Know Your Meme. Cheez Burger, 18 Oct. 2016. Web. 02 Dec. 2016. <http://knowyourmeme.com/memes/pepe-the-frog>. 
+"Pepe the Frog." Know Your Meme. Cheez Burger, 18 Oct. 2016. Web. 02 Dec. 2016. \<http://knowyourmeme.com/memes/pepe-the-frog\>. 
 
 
 Trump, Donald. ""@codyave: @drudgereport @BreitbartNews @Writeintrump "You Can't Stump the Trump" Https://t.co/0xITB7XeJV Pic.twitter.com/iF6S05se2w"" Twitter. Twitter, 13 Oct. 2015. Web. 02 Dec. 2016. 
