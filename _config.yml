@@ -7,9 +7,16 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         Meditations And Explanations
-    url:          /about
+  - name:         reflections
+    url:          /reflecions
     external:     true
+  - name:         elaborations
+    url:          /elaboraions
+    external:     true
+  - name:         acknowledgements
+    url:          /acknowledgements
+    external:     true
+    
 permalink:        pretty
 redcarpet:
   extensions:
