@@ -265,7 +265,7 @@ section.post {
 
 section.post, section > p {
   font-size: 17px;
-  line-height: 2; }
+  line-height: 2.5; }
   section.post *, section > p * {
     max-width: 100%; }
   section.post em strong, section > p em strong {
