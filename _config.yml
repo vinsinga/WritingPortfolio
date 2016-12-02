@@ -7,13 +7,13 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         reflections
+  - name:         Reflections
     url:          /reflecions
     external:     true
-  - name:         elaborations
+  - name:         Elaborations
     url:          /elaboraions
     external:     true
-  - name:         acknowledgements
+  - name:         Acknowledgements
     url:          /acknowledgements
     external:     true
     
