@@ -22,3 +22,24 @@ The Frog
    Trump’s purpose - and this can likely be said about any politician who does this - in posting memes on his social media accounts is probably an attempt at the creation of an ethos of modernity and coolness, appealing to younger voters, with whom internet memes are popular. Notable are the podium, behind which the frog stands, implying the inevitability of his becoming president, and the brow raised smugly, showcasing confidence. The caption sends the same message. It is an attempt at confidence that almost smells of its antithesis: insecurity. In an article published in the LA Times, Benjamin A. Lyons, a meme researcher at the University of Pennsylvania argues that Trump’s quirks and oddities - his status as a “walking meme” - is the reason for the recent political prevalence of memes.
 
   Indeed, this election has come to play an important role in the greater internet meme culture, just as memes have come to play an important role in it. Carolina Miranda, the author of the article From Clinton's shimmy to Pepe the frog: Memes are the language of the 2016 election (in which Lyons was quoted) seeks to inform us about all the ways that memes have been utilized this cycle by all elements involved. She first tells us about the days before memes: the archaic and memorable slogans. Then she tells us how things are different now, how Pepe, who she calls a “stoner cartoon frog,” is the new electoral artifact.
+  
+
+
+<center>Works Cited</center>
+
+
+"ADL Adds “Pepe the Frog” Meme, Used by Anti-Semites and Racists, to Online Hate Symbols Database." ADL. Anti-Defamation League, 27 Sept. 2016. Web. 02 Dec. 2016. <http://www.adl.org/press-center/press-releases/extremism/adl-adds-pepe-the-frog-online-hate-symbols-database.html>.
+
+
+"Can't Stump the Trump." Know Your Meme. Cheez Burger, 21 June 2016. Web. 02 Dec. 2016. <http://knowyourmeme.com/memes/can-t-stump-the-trump>. 
+
+
+"Pepe the Frog." Know Your Meme. Cheez Burger, 18 Oct. 2016. Web. 02 Dec. 2016. <http://knowyourmeme.com/memes/pepe-the-frog>. 
+
+
+Trump, Donald. ""@codyave: @drudgereport @BreitbartNews @Writeintrump "You Can't Stump the Trump" Https://t.co/0xITB7XeJV Pic.twitter.com/iF6S05se2w"" Twitter. Twitter, 13 Oct. 2015. Web. 02 Dec. 2016. 
+
+
+
+  
+  
