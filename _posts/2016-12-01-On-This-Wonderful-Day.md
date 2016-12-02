@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On This Wonderful Terrible Day
+title: On This Wonderful, Terrible Day
 date: '2016-12-01 9:02'
 ---
 
