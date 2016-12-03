@@ -1,3 +1,8 @@
+---
+layout: page
+title: Elabrations
+---
+
 It is difficult for me, in the way that I have decided is necessary, to elaborate  on what I wrote. The prose here is, above all else, letters and words. Nearly meaningless alone, they should have meaning together, put into sentences and essays. If I wrote well, these essays should elaborate themselves without my further intervention. They should be both self contained and interlocking.
 
 
