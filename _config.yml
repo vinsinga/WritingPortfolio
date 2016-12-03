@@ -8,13 +8,13 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
   - name:         Reflections
-    url:          reflections
+    url:          /reflections
   - name:         Elaborations
-    url:          elaboraions
+    url:          /elaboraions
   - name:         Acknowledgements
-    url:          acknowledgements
+    url:          /acknowledgements
   - name:         Conclusions
-    url:          conclusions
+    url:          /conclusions
     
 permalink:        pretty
 redcarpet:
