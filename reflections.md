@@ -12,6 +12,7 @@ Those were my struggles. My struggles were those days and weeks that I spent wai
 
 
 What I learned in this course was process, how to think about writing. I learned how to invent material and how to refine it. I learned so much from the writing itself, having  written very few personal essays before.
+
 I decided after midterms not to start any new essays. In that way, “On This Wonderful Terrible Day” was a happy accident, inspired by a scene and a song earlier this week. The concept caught me sitting on the green, listening to the Against Me song “Turn Those Clapping Hands Into Angry Balled Fists.” and looked up to see a split in the trees. Half having lost nearly all of their leaves, while the other half still carried their fall colors. Having nothing resembling a clear vision of what the essay should become, but a strange urge to put into words my immediate thoughts, I pulled my math notebook from my bag, having forgotten my others and began to write in pen. Before my bus arrived, I freewrote two pages which would later become the beginning of the essay in a massive, rushed, sloppy handwriting that I would later struggle to interpret to type.
 
 
@@ -21,4 +22,4 @@ I decided after midterms not to start any new essays. In that way, “On This Wo
 To me, writing that particular essay was the pinnacle of my course experience. I applied almost all of the techniques that we learned in a very short time, pushed by my own desire to finish the pursuit of an organic inspiration.
 
 
-Truly, I am very happy with the work that I have done in this course and with all of the things that I have learned while doing it.
+Truly, I am very happy with the work that I have done in this course and with all of the things that I have learned while doing it. I believe that I have written wonderful writing and that I am much better prepared today for school and life than I was a semester ago. This course was a journey. This portfolio is representative of that journey.
