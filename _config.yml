@@ -16,6 +16,9 @@ links:
   - name:         Acknowledgements
     url:          /acknowledgements
     external:     true
+  - name:         Conclusions
+    url:          /conclusions
+    external:     true
     
 permalink:        pretty
 redcarpet:
