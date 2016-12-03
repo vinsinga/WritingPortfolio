@@ -11,8 +11,4 @@ title: Conclusions
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+... Becuase death is the only real concluder... And I am still breathing...
