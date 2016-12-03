@@ -6,7 +6,7 @@ date: '2016-12-01 9:02'
 
   
 
-Today is a wonderful day. Like any other day, it is beautiful because it exists. I am thankful to be experiencing another small portion of a complicated, intricate life on this wonderful, terrible planet. Today, there will be joy and happiness. And today, a nut fell from a tree and hit me on the head. It fell with the Fall leaves and impacted me harder than the death of which the newly barren trees reminisce.  As Winter takes more color, today, there will be suffering and sadness. While people lose their lives, others lose their autonomy and freedom. Some people were born without them.
+Today is a lovely day. Like any other day, it is beautiful because it exists. I am thankful to be experiencing another small portion of a complicated, intricate life on this wonderful, terrible planet. Today, there will be joy and happiness. And today, a nut fell from a tree and hit me on the head. It fell with the Fall leaves and impacted me harder than the death of which the newly barren trees reminisce.  As Winter takes more color, today, there will be suffering and sadness. While people lose their lives, others lose their autonomy and freedom. Some people were born without them.
     
 Winter is like Fall, and like Spring, and like Summer. After the trees surrender their leaves, they will present an aesthetic just as amazing as the bright colors that I will miss. 
     
